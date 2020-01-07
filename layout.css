@@ -1,0 +1,89 @@
+@media (min-width: 900px) 
+{
+
+}
+
+body{
+  max-width: 960px;
+  margin: auto;
+
+}
+
+header{
+  background-color: blue;
+  background-size: auto;
+  color: #a52a2a;
+  width: 960px;
+  height: 100px;
+}
+
+aside{
+  background-color: rgb(194, 212, 229);
+  background-size: auto;
+  color: #a52a2a;
+  width: 200px;
+  height: 600px;
+
+}
+#boxC{
+  background-color: rgb(0, 255, 98);
+  background-size: auto;
+  color: #a52a2a;
+  width: 380px;
+  height: 200px;
+  float: left;
+
+}
+#boxD{
+  background-color: rgb(255, 0, 128);
+  background-size: auto;
+  color: #a52a2a;
+  width: 380px;
+  height: 200px;
+  float: left;
+}
+#boxE{
+  background-color: rgb(132, 0, 255);
+  background-size: auto;
+  color: #a52a2a;
+  width: 190px;
+  height: 250px;
+  float: left;
+
+}
+#boxF{
+  background-color: rgb(255, 115, 0);
+  background-size: auto;
+  color: #a52a2a;
+  width: 190px;
+  height: 250px;
+  float: left;
+
+}
+
+#boxG{
+  background-color: rgb(255, 0, 34);
+  background-size: auto;
+  color: #a52a2a;
+  width: 190px;
+  height: 250px;
+  float: left;
+
+}
+
+#boxH{
+  background-color: rgb(217, 255, 0);
+  background-size: auto;
+  color: #a52a2a;
+  width: 190px;
+  height: 250px;
+}
+
+footer{
+  background-color: rgb(0, 255, 42);
+  background-size: auto;
+  color: #a52a2a;
+  width: 760px;
+  height: 150px;
+
+}
